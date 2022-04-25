@@ -13,3 +13,7 @@ spec:
   lifecycle: experimental
   owner: team-a
   system: yelb
+  providesApis:
+    - petstore
+    - internal/streetlights
+    - hello-world
