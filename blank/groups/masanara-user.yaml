@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: masanara
+spec:
+  profile:
+    displayName: masanara
+    email: masanara@gmail.com
+    picture: https://avatars.dicebear.com/api/avataaars/masanara@gmail.com.svg?background=%23fff
+  memberOf: [default-team]
